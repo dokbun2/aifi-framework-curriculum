@@ -1,0 +1,5 @@
+{
+  "name": "AIFI Framework Curriculum",
+  "description": "A web page displaying the curriculum for the AIFI Framework lecture, along with Wi-Fi information for attendees.",
+  "requestFramePermissions": []
+}
